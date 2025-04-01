@@ -2,7 +2,8 @@
 #include <string>
 #include <vector>
 
-// 基类：Book
+
+// 基类1：Book
 class Book {
 protected:
     std::string title;
